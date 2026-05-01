@@ -1,0 +1,1502 @@
+[
+    {
+        "CustomerID": "CUST5082",
+        "Rating": 1,
+        "ReviewText": "Not as described.",
+        "FeedbackDate": "2025-03-02"
+    },
+    {
+        "CustomerID": "CUST5063",
+        "Rating": 5,
+        "ReviewText": "Five stars!.",
+        "FeedbackDate": "2024-03-13"
+    },
+    {
+        "CustomerID": "CUST5057",
+        "Rating": 4,
+        "ReviewText": "Very satisfied.",
+        "FeedbackDate": "2023-01-16"
+    },
+    {
+        "CustomerID": "CUST5117",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.",
+        "FeedbackDate": "2024-08-21"
+    },
+    {
+        "CustomerID": "CUST5050",
+        "Rating": 5,
+        "ReviewText": "Highly recommend.. Instructions were confusing.",
+        "FeedbackDate": "2024-06-04"
+    },
+    {
+        "CustomerID": "CUST5055",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.. Shipping was fast.",
+        "FeedbackDate": "2024-06-13"
+    },
+    {
+        "CustomerID": "CUST5081",
+        "Rating": 2,
+        "ReviewText": "Not as described.",
+        "FeedbackDate": "2023-10-08"
+    },
+    {
+        "CustomerID": "CUST5076",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.. Instructions were clear.",
+        "FeedbackDate": "2025-01-02"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 4,
+        "ReviewText": "Love it!. Excellent product!.",
+        "FeedbackDate": "2023-03-04"
+    },
+    {
+        "CustomerID": "CUST5020",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.",
+        "FeedbackDate": "2022-04-07"
+    },
+    {
+        "CustomerID": "CUST5090",
+        "Rating": 2,
+        "ReviewText": "Poor quality.",
+        "FeedbackDate": "2022-03-02"
+    },
+    {
+        "CustomerID": "CUST5085",
+        "Rating": 1,
+        "ReviewText": "Disappointed.",
+        "FeedbackDate": "2022-10-18"
+    },
+    {
+        "CustomerID": "CUST5092",
+        "Rating": 5,
+        "ReviewText": "Works perfectly.",
+        "FeedbackDate": "2024-04-07"
+    },
+    {
+        "CustomerID": "CUST5080",
+        "Rating": 2,
+        "ReviewText": "Doesn't work well.. Wouldn't buy again.. Shipping was fast.",
+        "FeedbackDate": "2024-02-01"
+    },
+    {
+        "CustomerID": "CUST5002",
+        "Rating": 2,
+        "ReviewText": "Faulty.",
+        "FeedbackDate": "2025-02-27"
+    },
+    {
+        "CustomerID": "CUST5081",
+        "Rating": 3,
+        "ReviewText": "Does the job.. Instructions were clear.",
+        "FeedbackDate": "2024-11-24"
+    },
+    {
+        "CustomerID": "CUST5111",
+        "Rating": 1,
+        "ReviewText": "Poor quality.",
+        "FeedbackDate": "2024-03-20"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Exceeded expectations.",
+        "FeedbackDate": "2024-08-13"
+    },
+    {
+        "CustomerID": "CUST5083",
+        "Rating": 4,
+        "ReviewText": "Love it!.",
+        "FeedbackDate": "2023-09-11"
+    },
+    {
+        "CustomerID": "CUST5066",
+        "Rating": 4,
+        "ReviewText": "Five stars!.",
+        "FeedbackDate": "2022-09-13"
+    },
+    {
+        "CustomerID": "CUST5037",
+        "Rating": 3,
+        "ReviewText": "Does the job.. Took a while to arrive.",
+        "FeedbackDate": "2022-05-09"
+    },
+    {
+        "CustomerID": "CUST5056",
+        "Rating": 5,
+        "ReviewText": "Good quality.. Very satisfied.. Instructions were clear.",
+        "FeedbackDate": "2022-04-19"
+    },
+    {
+        "CustomerID": "CUST5071",
+        "Rating": 3,
+        "ReviewText": "It's okay.",
+        "FeedbackDate": "2022-09-04"
+    },
+    {
+        "CustomerID": "CUST5081",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.. Took a while to arrive.",
+        "FeedbackDate": "2023-08-11"
+    },
+    {
+        "CustomerID": "CUST5067",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.. Took a while to arrive.",
+        "FeedbackDate": "2023-05-29"
+    },
+    {
+        "CustomerID": "CUST5066",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.",
+        "FeedbackDate": "2025-01-17"
+    },
+    {
+        "CustomerID": "CUST5117",
+        "Rating": 1,
+        "ReviewText": "Poor quality.. Difficult to use.. Instructions were clear.",
+        "FeedbackDate": "2024-08-09"
+    },
+    {
+        "CustomerID": "CUST5116",
+        "Rating": 5,
+        "ReviewText": "Exceeded expectations.. Instructions were confusing.",
+        "FeedbackDate": "2025-01-31"
+    },
+    {
+        "CustomerID": "CUST5047",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.",
+        "FeedbackDate": "2023-04-21"
+    },
+    {
+        "CustomerID": "CUST5009",
+        "Rating": 5,
+        "ReviewText": "Good quality.",
+        "FeedbackDate": "2022-09-30"
+    },
+    {
+        "CustomerID": "CUST5083",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Shipping was fast.",
+        "FeedbackDate": "2024-01-03"
+    },
+    {
+        "CustomerID": "CUST5007",
+        "Rating": 1,
+        "ReviewText": "Disappointed.",
+        "FeedbackDate": "2022-11-30"
+    },
+    {
+        "CustomerID": "CUST5111",
+        "Rating": 4,
+        "ReviewText": "Easy to use.",
+        "FeedbackDate": "2025-03-09"
+    },
+    {
+        "CustomerID": "CUST5094",
+        "Rating": 2,
+        "ReviewText": "Faulty.. Shipping was fast.",
+        "FeedbackDate": "2022-10-26"
+    },
+    {
+        "CustomerID": "CUST5086",
+        "Rating": 2,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2023-05-31"
+    },
+    {
+        "CustomerID": "CUST5096",
+        "Rating": 4,
+        "ReviewText": "Good quality.",
+        "FeedbackDate": "2022-04-29"
+    },
+    {
+        "CustomerID": "CUST5045",
+        "Rating": 3,
+        "ReviewText": "Alright.. Instructions were clear.",
+        "FeedbackDate": "2022-07-14"
+    },
+    {
+        "CustomerID": "CUST5055",
+        "Rating": 1,
+        "ReviewText": "Faulty.. Doesn't work well.. Instructions were confusing.",
+        "FeedbackDate": "2023-01-28"
+    },
+    {
+        "CustomerID": "CUST5091",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.",
+        "FeedbackDate": "2023-07-15"
+    },
+    {
+        "CustomerID": "CUST5101",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.",
+        "FeedbackDate": "2022-10-11"
+    },
+    {
+        "CustomerID": "CUST5077",
+        "Rating": 4,
+        "ReviewText": "Very satisfied.. Highly recommend.",
+        "FeedbackDate": "2022-12-09"
+    },
+    {
+        "CustomerID": "CUST5047",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.. Packaging was good.",
+        "FeedbackDate": "2025-01-13"
+    },
+    {
+        "CustomerID": "CUST5053",
+        "Rating": 2,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2023-09-23"
+    },
+    {
+        "CustomerID": "CUST5075",
+        "Rating": 4,
+        "ReviewText": "Works perfectly.. Easy to use.. Packaging was good.",
+        "FeedbackDate": "2023-08-13"
+    },
+    {
+        "CustomerID": "CUST5035",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.. Great value.. Took a while to arrive.",
+        "FeedbackDate": "2022-11-10"
+    },
+    {
+        "CustomerID": "CUST5091",
+        "Rating": 5,
+        "ReviewText": "Love it!. Instructions were confusing.",
+        "FeedbackDate": "2024-11-03"
+    },
+    {
+        "CustomerID": "CUST5097",
+        "Rating": 4,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2023-07-26"
+    },
+    {
+        "CustomerID": "CUST5060",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.",
+        "FeedbackDate": "2024-07-04"
+    },
+    {
+        "CustomerID": "CUST5034",
+        "Rating": 1,
+        "ReviewText": "Not as described.. Packaging was good.",
+        "FeedbackDate": "2023-10-02"
+    },
+    {
+        "CustomerID": "CUST5067",
+        "Rating": 1,
+        "ReviewText": "Customer service was unhelpful.",
+        "FeedbackDate": "2024-05-14"
+    },
+    {
+        "CustomerID": "CUST5088",
+        "Rating": 5,
+        "ReviewText": "Very satisfied.. Highly recommend.",
+        "FeedbackDate": "2022-08-23"
+    },
+    {
+        "CustomerID": "CUST5001",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Difficult to use.",
+        "FeedbackDate": "2024-06-06"
+    },
+    {
+        "CustomerID": "CUST5081",
+        "Rating": 4,
+        "ReviewText": "Works perfectly.",
+        "FeedbackDate": "2022-07-15"
+    },
+    {
+        "CustomerID": "CUST5032",
+        "Rating": 1,
+        "ReviewText": "Customer service was unhelpful.. Broke quickly.. Instructions were clear.",
+        "FeedbackDate": "2023-10-22"
+    },
+    {
+        "CustomerID": "CUST5040",
+        "Rating": 3,
+        "ReviewText": "It's okay.. Instructions were confusing.",
+        "FeedbackDate": "2022-09-06"
+    },
+    {
+        "CustomerID": "CUST5015",
+        "Rating": 3,
+        "ReviewText": "Alright.. Instructions were confusing.",
+        "FeedbackDate": "2024-01-05"
+    },
+    {
+        "CustomerID": "CUST5099",
+        "Rating": 5,
+        "ReviewText": "Exceeded expectations.. Easy to use.. Shipping was fast.",
+        "FeedbackDate": "2023-10-21"
+    },
+    {
+        "CustomerID": "CUST5062",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.",
+        "FeedbackDate": "2023-01-12"
+    },
+    {
+        "CustomerID": "CUST5083",
+        "Rating": 3,
+        "ReviewText": "No major issues.. Instructions were confusing.",
+        "FeedbackDate": "2023-07-21"
+    },
+    {
+        "CustomerID": "CUST5048",
+        "Rating": 1,
+        "ReviewText": "Faulty.. Disappointed.",
+        "FeedbackDate": "2023-09-29"
+    },
+    {
+        "CustomerID": "CUST5085",
+        "Rating": 2,
+        "ReviewText": "Wouldn't buy again.. Difficult to use.",
+        "FeedbackDate": "2023-08-01"
+    },
+    {
+        "CustomerID": "CUST5062",
+        "Rating": 1,
+        "ReviewText": "Customer service was unhelpful.. Doesn't work well.",
+        "FeedbackDate": "2023-09-06"
+    },
+    {
+        "CustomerID": "CUST5040",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Instructions were confusing.",
+        "FeedbackDate": "2023-09-16"
+    },
+    {
+        "CustomerID": "CUST5004",
+        "Rating": 4,
+        "ReviewText": "Easy to use.. Packaging was good.",
+        "FeedbackDate": "2023-05-09"
+    },
+    {
+        "CustomerID": "CUST5039",
+        "Rating": 4,
+        "ReviewText": "Works perfectly.. Good quality.. Shipping was fast.",
+        "FeedbackDate": "2023-03-11"
+    },
+    {
+        "CustomerID": "CUST5118",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.. Took a while to arrive.",
+        "FeedbackDate": "2022-09-05"
+    },
+    {
+        "CustomerID": "CUST5062",
+        "Rating": 2,
+        "ReviewText": "Overpriced.",
+        "FeedbackDate": "2022-09-17"
+    },
+    {
+        "CustomerID": "CUST5006",
+        "Rating": 2,
+        "ReviewText": "Overpriced.",
+        "FeedbackDate": "2022-05-26"
+    },
+    {
+        "CustomerID": "CUST5107",
+        "Rating": 3,
+        "ReviewText": "Does the job.. Shipping was fast.",
+        "FeedbackDate": "2022-12-17"
+    },
+    {
+        "CustomerID": "CUST5099",
+        "Rating": 4,
+        "ReviewText": "Five stars!.",
+        "FeedbackDate": "2023-08-29"
+    },
+    {
+        "CustomerID": "CUST5002",
+        "Rating": 4,
+        "ReviewText": "Easy to use.. Excellent product!. Instructions were clear.",
+        "FeedbackDate": "2025-02-11"
+    },
+    {
+        "CustomerID": "CUST5041",
+        "Rating": 5,
+        "ReviewText": "Very satisfied.. Love it!.",
+        "FeedbackDate": "2024-07-27"
+    },
+    {
+        "CustomerID": "CUST5014",
+        "Rating": 5,
+        "ReviewText": "Love it!.",
+        "FeedbackDate": "2023-02-06"
+    },
+    {
+        "CustomerID": "CUST5026",
+        "Rating": 1,
+        "ReviewText": "Disappointed.",
+        "FeedbackDate": "2024-08-22"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 3,
+        "ReviewText": "It's okay.",
+        "FeedbackDate": "2023-05-08"
+    },
+    {
+        "CustomerID": "CUST5096",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.. Poor quality.. Instructions were clear.",
+        "FeedbackDate": "2023-12-03"
+    },
+    {
+        "CustomerID": "CUST5065",
+        "Rating": 2,
+        "ReviewText": "Doesn't work well.. Instructions were confusing.",
+        "FeedbackDate": "2023-07-11"
+    },
+    {
+        "CustomerID": "CUST5063",
+        "Rating": 2,
+        "ReviewText": "Doesn't work well.",
+        "FeedbackDate": "2022-03-29"
+    },
+    {
+        "CustomerID": "CUST5049",
+        "Rating": 2,
+        "ReviewText": "Overpriced.",
+        "FeedbackDate": "2024-10-29"
+    },
+    {
+        "CustomerID": "CUST5045",
+        "Rating": 2,
+        "ReviewText": "Faulty.. Customer service was unhelpful.. Instructions were clear.",
+        "FeedbackDate": "2024-12-14"
+    },
+    {
+        "CustomerID": "CUST5108",
+        "Rating": 5,
+        "ReviewText": "Love it!. Took a while to arrive.",
+        "FeedbackDate": "2022-06-24"
+    },
+    {
+        "CustomerID": "CUST5078",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Took a while to arrive.",
+        "FeedbackDate": "2022-08-26"
+    },
+    {
+        "CustomerID": "CUST5043",
+        "Rating": 5,
+        "ReviewText": "Highly recommend.. Took a while to arrive.",
+        "FeedbackDate": "2022-11-27"
+    },
+    {
+        "CustomerID": "CUST5043",
+        "Rating": 3,
+        "ReviewText": "Met expectations.. Instructions were confusing.",
+        "FeedbackDate": "2024-01-05"
+    },
+    {
+        "CustomerID": "CUST5054",
+        "Rating": 3,
+        "ReviewText": "Met expectations.. Instructions were confusing.",
+        "FeedbackDate": "2022-09-13"
+    },
+    {
+        "CustomerID": "CUST5078",
+        "Rating": 4,
+        "ReviewText": "Works perfectly.. Shipping was fast.",
+        "FeedbackDate": "2025-03-13"
+    },
+    {
+        "CustomerID": "CUST5061",
+        "Rating": 5,
+        "ReviewText": "Exceeded expectations.. Highly recommend.",
+        "FeedbackDate": "2023-08-31"
+    },
+    {
+        "CustomerID": "CUST5074",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.. Broke quickly.. Instructions were clear.",
+        "FeedbackDate": "2023-11-24"
+    },
+    {
+        "CustomerID": "CUST5075",
+        "Rating": 3,
+        "ReviewText": "No major issues.",
+        "FeedbackDate": "2022-09-11"
+    },
+    {
+        "CustomerID": "CUST5049",
+        "Rating": 5,
+        "ReviewText": "Very satisfied.",
+        "FeedbackDate": "2024-08-09"
+    },
+    {
+        "CustomerID": "CUST5061",
+        "Rating": 3,
+        "ReviewText": "Does the job.",
+        "FeedbackDate": "2023-03-24"
+    },
+    {
+        "CustomerID": "CUST5017",
+        "Rating": 3,
+        "ReviewText": "Does the job.. Instructions were clear.",
+        "FeedbackDate": "2024-06-07"
+    },
+    {
+        "CustomerID": "CUST5061",
+        "Rating": 3,
+        "ReviewText": "Average quality.",
+        "FeedbackDate": "2025-01-06"
+    },
+    {
+        "CustomerID": "CUST5011",
+        "Rating": 5,
+        "ReviewText": "Good quality.. Shipping was fast.",
+        "FeedbackDate": "2022-08-25"
+    },
+    {
+        "CustomerID": "CUST5032",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Works perfectly.. Packaging was good.",
+        "FeedbackDate": "2024-03-20"
+    },
+    {
+        "CustomerID": "CUST5116",
+        "Rating": 5,
+        "ReviewText": "Excellent product!.",
+        "FeedbackDate": "2023-11-13"
+    },
+    {
+        "CustomerID": "CUST5029",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2024-12-30"
+    },
+    {
+        "CustomerID": "CUST5016",
+        "Rating": 3,
+        "ReviewText": "As described.",
+        "FeedbackDate": "2023-08-27"
+    },
+    {
+        "CustomerID": "CUST5057",
+        "Rating": 4,
+        "ReviewText": "Excellent product!.",
+        "FeedbackDate": "2025-01-01"
+    },
+    {
+        "CustomerID": "CUST5064",
+        "Rating": 3,
+        "ReviewText": "Alright.. Instructions were clear.",
+        "FeedbackDate": "2022-11-28"
+    },
+    {
+        "CustomerID": "CUST5006",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.. Took a while to arrive.",
+        "FeedbackDate": "2023-08-22"
+    },
+    {
+        "CustomerID": "CUST5078",
+        "Rating": 3,
+        "ReviewText": "No major issues.",
+        "FeedbackDate": "2023-01-04"
+    },
+    {
+        "CustomerID": "CUST5059",
+        "Rating": 3,
+        "ReviewText": "It's okay.",
+        "FeedbackDate": "2022-10-15"
+    },
+    {
+        "CustomerID": "CUST5021",
+        "Rating": 3,
+        "ReviewText": "It's okay.. Instructions were confusing.",
+        "FeedbackDate": "2022-07-10"
+    },
+    {
+        "CustomerID": "CUST5067",
+        "Rating": 1,
+        "ReviewText": "Overpriced.",
+        "FeedbackDate": "2022-04-12"
+    },
+    {
+        "CustomerID": "CUST5069",
+        "Rating": 2,
+        "ReviewText": "Overpriced.. Instructions were clear.",
+        "FeedbackDate": "2022-09-20"
+    },
+    {
+        "CustomerID": "CUST5119",
+        "Rating": 1,
+        "ReviewText": "Disappointed.",
+        "FeedbackDate": "2024-11-28"
+    },
+    {
+        "CustomerID": "CUST5082",
+        "Rating": 4,
+        "ReviewText": "Excellent product!. Great value.. Instructions were clear.",
+        "FeedbackDate": "2022-08-04"
+    },
+    {
+        "CustomerID": "CUST5058",
+        "Rating": 4,
+        "ReviewText": "Easy to use.",
+        "FeedbackDate": "2023-07-26"
+    },
+    {
+        "CustomerID": "CUST5024",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2023-04-29"
+    },
+    {
+        "CustomerID": "CUST5075",
+        "Rating": 2,
+        "ReviewText": "Faulty.. Instructions were confusing.",
+        "FeedbackDate": "2022-06-23"
+    },
+    {
+        "CustomerID": "CUST5095",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.. Poor quality.. Took a while to arrive.",
+        "FeedbackDate": "2024-06-26"
+    },
+    {
+        "CustomerID": "CUST5038",
+        "Rating": 2,
+        "ReviewText": "Poor quality.",
+        "FeedbackDate": "2022-08-12"
+    },
+    {
+        "CustomerID": "CUST5097",
+        "Rating": 4,
+        "ReviewText": "Excellent product!. Packaging was good.",
+        "FeedbackDate": "2023-08-10"
+    },
+    {
+        "CustomerID": "CUST5071",
+        "Rating": 4,
+        "ReviewText": "Works perfectly.. Easy to use.",
+        "FeedbackDate": "2023-08-10"
+    },
+    {
+        "CustomerID": "CUST5092",
+        "Rating": 3,
+        "ReviewText": "Met expectations.. Packaging was good.",
+        "FeedbackDate": "2023-12-24"
+    },
+    {
+        "CustomerID": "CUST5059",
+        "Rating": 3,
+        "ReviewText": "Does the job.",
+        "FeedbackDate": "2022-05-08"
+    },
+    {
+        "CustomerID": "CUST5109",
+        "Rating": 3,
+        "ReviewText": "Functional.",
+        "FeedbackDate": "2024-07-11"
+    },
+    {
+        "CustomerID": "CUST5092",
+        "Rating": 3,
+        "ReviewText": "As described.. Shipping was fast.",
+        "FeedbackDate": "2024-10-27"
+    },
+    {
+        "CustomerID": "CUST5012",
+        "Rating": 1,
+        "ReviewText": "Overpriced.. Faulty.. Took a while to arrive.",
+        "FeedbackDate": "2025-01-23"
+    },
+    {
+        "CustomerID": "CUST5076",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Excellent product!.",
+        "FeedbackDate": "2022-11-29"
+    },
+    {
+        "CustomerID": "CUST5061",
+        "Rating": 3,
+        "ReviewText": "As described.",
+        "FeedbackDate": "2024-02-05"
+    },
+    {
+        "CustomerID": "CUST5120",
+        "Rating": 4,
+        "ReviewText": "Exceeded expectations.. Easy to use.. Packaging was good.",
+        "FeedbackDate": "2024-09-14"
+    },
+    {
+        "CustomerID": "CUST5086",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2022-03-02"
+    },
+    {
+        "CustomerID": "CUST5018",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.",
+        "FeedbackDate": "2022-09-01"
+    },
+    {
+        "CustomerID": "CUST5091",
+        "Rating": 4,
+        "ReviewText": "Works perfectly.",
+        "FeedbackDate": "2024-05-01"
+    },
+    {
+        "CustomerID": "CUST5102",
+        "Rating": 4,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2024-05-07"
+    },
+    {
+        "CustomerID": "CUST5112",
+        "Rating": 5,
+        "ReviewText": "Highly recommend.. Love it!.",
+        "FeedbackDate": "2024-03-27"
+    },
+    {
+        "CustomerID": "CUST5026",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.. Five stars!.",
+        "FeedbackDate": "2022-03-11"
+    },
+    {
+        "CustomerID": "CUST5085",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Instructions were clear.",
+        "FeedbackDate": "2022-11-30"
+    },
+    {
+        "CustomerID": "CUST5038",
+        "Rating": 4,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2024-03-04"
+    },
+    {
+        "CustomerID": "CUST5028",
+        "Rating": 3,
+        "ReviewText": "No major issues.. Shipping was fast.",
+        "FeedbackDate": "2023-06-17"
+    },
+    {
+        "CustomerID": "CUST5120",
+        "Rating": 5,
+        "ReviewText": "Love it!. Good quality.. Shipping was fast.",
+        "FeedbackDate": "2023-08-14"
+    },
+    {
+        "CustomerID": "CUST5100",
+        "Rating": 4,
+        "ReviewText": "Love it!. Instructions were clear.",
+        "FeedbackDate": "2024-11-24"
+    },
+    {
+        "CustomerID": "CUST5095",
+        "Rating": 3,
+        "ReviewText": "Alright.",
+        "FeedbackDate": "2023-11-26"
+    },
+    {
+        "CustomerID": "CUST5032",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.",
+        "FeedbackDate": "2022-06-24"
+    },
+    {
+        "CustomerID": "CUST5099",
+        "Rating": 2,
+        "ReviewText": "Overpriced.. Difficult to use.",
+        "FeedbackDate": "2023-02-20"
+    },
+    {
+        "CustomerID": "CUST5069",
+        "Rating": 5,
+        "ReviewText": "Five stars!.",
+        "FeedbackDate": "2022-03-12"
+    },
+    {
+        "CustomerID": "CUST5093",
+        "Rating": 5,
+        "ReviewText": "Five stars!. Great value.",
+        "FeedbackDate": "2023-01-02"
+    },
+    {
+        "CustomerID": "CUST5064",
+        "Rating": 2,
+        "ReviewText": "Faulty.",
+        "FeedbackDate": "2024-08-23"
+    },
+    {
+        "CustomerID": "CUST5082",
+        "Rating": 4,
+        "ReviewText": "Easy to use.",
+        "FeedbackDate": "2024-03-01"
+    },
+    {
+        "CustomerID": "CUST5011",
+        "Rating": 4,
+        "ReviewText": "Very satisfied.. Love it!.",
+        "FeedbackDate": "2023-02-21"
+    },
+    {
+        "CustomerID": "CUST5110",
+        "Rating": 5,
+        "ReviewText": "Very satisfied.",
+        "FeedbackDate": "2022-07-17"
+    },
+    {
+        "CustomerID": "CUST5065",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.",
+        "FeedbackDate": "2023-06-18"
+    },
+    {
+        "CustomerID": "CUST5098",
+        "Rating": 1,
+        "ReviewText": "Not as described.",
+        "FeedbackDate": "2024-06-19"
+    },
+    {
+        "CustomerID": "CUST5040",
+        "Rating": 2,
+        "ReviewText": "Difficult to use.. Instructions were confusing.",
+        "FeedbackDate": "2022-11-09"
+    },
+    {
+        "CustomerID": "CUST5102",
+        "Rating": 3,
+        "ReviewText": "Does the job.",
+        "FeedbackDate": "2022-10-21"
+    },
+    {
+        "CustomerID": "CUST5061",
+        "Rating": 3,
+        "ReviewText": "Does the job.",
+        "FeedbackDate": "2023-03-09"
+    },
+    {
+        "CustomerID": "CUST5036",
+        "Rating": 3,
+        "ReviewText": "Functional.",
+        "FeedbackDate": "2023-06-12"
+    },
+    {
+        "CustomerID": "CUST5019",
+        "Rating": 5,
+        "ReviewText": "Five stars!. Took a while to arrive.",
+        "FeedbackDate": "2024-02-18"
+    },
+    {
+        "CustomerID": "CUST5110",
+        "Rating": 3,
+        "ReviewText": "Alright.",
+        "FeedbackDate": "2023-03-05"
+    },
+    {
+        "CustomerID": "CUST5013",
+        "Rating": 4,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2023-12-09"
+    },
+    {
+        "CustomerID": "CUST5087",
+        "Rating": 3,
+        "ReviewText": "As described.. Shipping was fast.",
+        "FeedbackDate": "2022-04-08"
+    },
+    {
+        "CustomerID": "CUST5119",
+        "Rating": 5,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2023-11-28"
+    },
+    {
+        "CustomerID": "CUST5095",
+        "Rating": 5,
+        "ReviewText": "Great value.. Easy to use.",
+        "FeedbackDate": "2023-06-27"
+    },
+    {
+        "CustomerID": "CUST5050",
+        "Rating": 1,
+        "ReviewText": "Disappointed.. Took a while to arrive.",
+        "FeedbackDate": "2025-03-25"
+    },
+    {
+        "CustomerID": "CUST5016",
+        "Rating": 3,
+        "ReviewText": "No major issues.",
+        "FeedbackDate": "2023-08-06"
+    },
+    {
+        "CustomerID": "CUST5049",
+        "Rating": 5,
+        "ReviewText": "Exceeded expectations.. Exceeded expectations.. Shipping was fast.",
+        "FeedbackDate": "2025-01-30"
+    },
+    {
+        "CustomerID": "CUST5025",
+        "Rating": 4,
+        "ReviewText": "Love it!. Love it!. Took a while to arrive.",
+        "FeedbackDate": "2024-03-10"
+    },
+    {
+        "CustomerID": "CUST5011",
+        "Rating": 5,
+        "ReviewText": "Excellent product!. Shipping was fast.",
+        "FeedbackDate": "2023-10-30"
+    },
+    {
+        "CustomerID": "CUST5040",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2022-04-22"
+    },
+    {
+        "CustomerID": "CUST5066",
+        "Rating": 2,
+        "ReviewText": "Disappointed.. Instructions were clear.",
+        "FeedbackDate": "2023-02-12"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Wouldn't buy again.. Instructions were confusing.",
+        "FeedbackDate": "2023-12-19"
+    },
+    {
+        "CustomerID": "CUST5003",
+        "Rating": 4,
+        "ReviewText": "Love it!.",
+        "FeedbackDate": "2023-12-14"
+    },
+    {
+        "CustomerID": "CUST5092",
+        "Rating": 3,
+        "ReviewText": "Alright.",
+        "FeedbackDate": "2022-12-22"
+    },
+    {
+        "CustomerID": "CUST5001",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.. Instructions were confusing.",
+        "FeedbackDate": "2024-11-27"
+    },
+    {
+        "CustomerID": "CUST5053",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.. Packaging was good.",
+        "FeedbackDate": "2023-09-16"
+    },
+    {
+        "CustomerID": "CUST5065",
+        "Rating": 1,
+        "ReviewText": "Faulty.",
+        "FeedbackDate": "2024-05-18"
+    },
+    {
+        "CustomerID": "CUST5082",
+        "Rating": 4,
+        "ReviewText": "Exceeded expectations.. Very satisfied.",
+        "FeedbackDate": "2024-08-15"
+    },
+    {
+        "CustomerID": "CUST5051",
+        "Rating": 2,
+        "ReviewText": "Broke quickly.. Customer service was unhelpful.",
+        "FeedbackDate": "2022-12-26"
+    },
+    {
+        "CustomerID": "CUST5043",
+        "Rating": 3,
+        "ReviewText": "Met expectations.",
+        "FeedbackDate": "2024-03-28"
+    },
+    {
+        "CustomerID": "CUST5039",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Instructions were clear.",
+        "FeedbackDate": "2023-03-22"
+    },
+    {
+        "CustomerID": "CUST5065",
+        "Rating": 1,
+        "ReviewText": "Not as described.. Overpriced.",
+        "FeedbackDate": "2024-09-15"
+    },
+    {
+        "CustomerID": "CUST5002",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.",
+        "FeedbackDate": "2023-10-12"
+    },
+    {
+        "CustomerID": "CUST5027",
+        "Rating": 3,
+        "ReviewText": "As described.",
+        "FeedbackDate": "2023-10-04"
+    },
+    {
+        "CustomerID": "CUST5042",
+        "Rating": 5,
+        "ReviewText": "Excellent product!. Exceeded expectations.. Packaging was good.",
+        "FeedbackDate": "2024-09-01"
+    },
+    {
+        "CustomerID": "CUST5043",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Instructions were clear.",
+        "FeedbackDate": "2022-04-30"
+    },
+    {
+        "CustomerID": "CUST5020",
+        "Rating": 1,
+        "ReviewText": "Disappointed.. Wouldn't buy again.",
+        "FeedbackDate": "2024-12-11"
+    },
+    {
+        "CustomerID": "CUST5022",
+        "Rating": 3,
+        "ReviewText": "No major issues.",
+        "FeedbackDate": "2024-11-29"
+    },
+    {
+        "CustomerID": "CUST5065",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.. Packaging was good.",
+        "FeedbackDate": "2024-01-07"
+    },
+    {
+        "CustomerID": "CUST5033",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.. Easy to use.",
+        "FeedbackDate": "2022-08-28"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Instructions were confusing.",
+        "FeedbackDate": "2024-01-10"
+    },
+    {
+        "CustomerID": "CUST5104",
+        "Rating": 3,
+        "ReviewText": "It's okay.. Instructions were clear.",
+        "FeedbackDate": "2022-06-09"
+    },
+    {
+        "CustomerID": "CUST5109",
+        "Rating": 5,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2024-12-08"
+    },
+    {
+        "CustomerID": "CUST5056",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.",
+        "FeedbackDate": "2022-07-26"
+    },
+    {
+        "CustomerID": "CUST5115",
+        "Rating": 4,
+        "ReviewText": "Very satisfied.",
+        "FeedbackDate": "2024-02-10"
+    },
+    {
+        "CustomerID": "CUST5029",
+        "Rating": 5,
+        "ReviewText": "Highly recommend.. Highly recommend.. Shipping was fast.",
+        "FeedbackDate": "2024-02-10"
+    },
+    {
+        "CustomerID": "CUST5115",
+        "Rating": 5,
+        "ReviewText": "Works perfectly.. Easy to use.",
+        "FeedbackDate": "2023-06-09"
+    },
+    {
+        "CustomerID": "CUST5021",
+        "Rating": 2,
+        "ReviewText": "Faulty.",
+        "FeedbackDate": "2023-04-27"
+    },
+    {
+        "CustomerID": "CUST5095",
+        "Rating": 1,
+        "ReviewText": "Disappointed.",
+        "FeedbackDate": "2022-06-15"
+    },
+    {
+        "CustomerID": "CUST5100",
+        "Rating": 4,
+        "ReviewText": "Good quality.. Exceeded expectations.",
+        "FeedbackDate": "2023-12-21"
+    },
+    {
+        "CustomerID": "CUST5010",
+        "Rating": 3,
+        "ReviewText": "It's okay.",
+        "FeedbackDate": "2022-03-03"
+    },
+    {
+        "CustomerID": "CUST5074",
+        "Rating": 4,
+        "ReviewText": "Exceeded expectations.. Instructions were clear.",
+        "FeedbackDate": "2023-10-05"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 2,
+        "ReviewText": "Poor quality.",
+        "FeedbackDate": "2024-12-10"
+    },
+    {
+        "CustomerID": "CUST5109",
+        "Rating": 5,
+        "ReviewText": "Excellent product!.",
+        "FeedbackDate": "2022-09-10"
+    },
+    {
+        "CustomerID": "CUST5062",
+        "Rating": 2,
+        "ReviewText": "Wouldn't buy again.",
+        "FeedbackDate": "2024-11-23"
+    },
+    {
+        "CustomerID": "CUST5092",
+        "Rating": 4,
+        "ReviewText": "Love it!. Five stars!.",
+        "FeedbackDate": "2024-03-30"
+    },
+    {
+        "CustomerID": "CUST5063",
+        "Rating": 1,
+        "ReviewText": "Not as described.. Packaging was good.",
+        "FeedbackDate": "2023-06-20"
+    },
+    {
+        "CustomerID": "CUST5030",
+        "Rating": 1,
+        "ReviewText": "Broke quickly.. Instructions were confusing.",
+        "FeedbackDate": "2024-02-19"
+    },
+    {
+        "CustomerID": "CUST5046",
+        "Rating": 1,
+        "ReviewText": "Not as described.",
+        "FeedbackDate": "2022-10-16"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 5,
+        "ReviewText": "Works perfectly.. Took a while to arrive.",
+        "FeedbackDate": "2024-04-28"
+    },
+    {
+        "CustomerID": "CUST5025",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.. Took a while to arrive.",
+        "FeedbackDate": "2024-11-20"
+    },
+    {
+        "CustomerID": "CUST5094",
+        "Rating": 1,
+        "ReviewText": "Overpriced.",
+        "FeedbackDate": "2022-05-04"
+    },
+    {
+        "CustomerID": "CUST5099",
+        "Rating": 4,
+        "ReviewText": "Easy to use.",
+        "FeedbackDate": "2023-02-22"
+    },
+    {
+        "CustomerID": "CUST5022",
+        "Rating": 5,
+        "ReviewText": "Easy to use.",
+        "FeedbackDate": "2022-08-06"
+    },
+    {
+        "CustomerID": "CUST5080",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.. Shipping was fast.",
+        "FeedbackDate": "2024-02-01"
+    },
+    {
+        "CustomerID": "CUST5041",
+        "Rating": 2,
+        "ReviewText": "Customer service was unhelpful.. Instructions were confusing.",
+        "FeedbackDate": "2022-09-06"
+    },
+    {
+        "CustomerID": "CUST5056",
+        "Rating": 2,
+        "ReviewText": "Poor quality.. Shipping was fast.",
+        "FeedbackDate": "2024-12-15"
+    },
+    {
+        "CustomerID": "CUST5109",
+        "Rating": 3,
+        "ReviewText": "Does the job.",
+        "FeedbackDate": "2022-05-05"
+    },
+    {
+        "CustomerID": "CUST5103",
+        "Rating": 4,
+        "ReviewText": "Excellent product!. Instructions were confusing.",
+        "FeedbackDate": "2023-10-29"
+    },
+    {
+        "CustomerID": "CUST5005",
+        "Rating": 2,
+        "ReviewText": "Overpriced.. Customer service was unhelpful.. Shipping was fast.",
+        "FeedbackDate": "2024-02-09"
+    },
+    {
+        "CustomerID": "CUST5005",
+        "Rating": 3,
+        "ReviewText": "Average quality.. Packaging was good.",
+        "FeedbackDate": "2024-08-28"
+    },
+    {
+        "CustomerID": "CUST5042",
+        "Rating": 5,
+        "ReviewText": "Exceeded expectations.",
+        "FeedbackDate": "2025-03-16"
+    },
+    {
+        "CustomerID": "CUST5116",
+        "Rating": 1,
+        "ReviewText": "Disappointed.. Instructions were confusing.",
+        "FeedbackDate": "2024-05-16"
+    },
+    {
+        "CustomerID": "CUST5064",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.. Instructions were clear.",
+        "FeedbackDate": "2022-05-15"
+    },
+    {
+        "CustomerID": "CUST5112",
+        "Rating": 2,
+        "ReviewText": "Doesn't work well.",
+        "FeedbackDate": "2025-01-21"
+    },
+    {
+        "CustomerID": "CUST5021",
+        "Rating": 4,
+        "ReviewText": "Exceeded expectations.. Works perfectly.. Instructions were clear.",
+        "FeedbackDate": "2022-10-09"
+    },
+    {
+        "CustomerID": "CUST5048",
+        "Rating": 3,
+        "ReviewText": "As described.. Instructions were confusing.",
+        "FeedbackDate": "2025-03-08"
+    },
+    {
+        "CustomerID": "CUST5039",
+        "Rating": 2,
+        "ReviewText": "Disappointed.. Overpriced.",
+        "FeedbackDate": "2024-05-01"
+    },
+    {
+        "CustomerID": "CUST5037",
+        "Rating": 3,
+        "ReviewText": "As described.",
+        "FeedbackDate": "2022-03-16"
+    },
+    {
+        "CustomerID": "CUST5106",
+        "Rating": 5,
+        "ReviewText": "Good quality.. Packaging was good.",
+        "FeedbackDate": "2024-12-06"
+    },
+    {
+        "CustomerID": "CUST5013",
+        "Rating": 5,
+        "ReviewText": "Five stars!.",
+        "FeedbackDate": "2024-08-23"
+    },
+    {
+        "CustomerID": "CUST5029",
+        "Rating": 2,
+        "ReviewText": "Broke quickly.. Instructions were clear.",
+        "FeedbackDate": "2022-09-29"
+    },
+    {
+        "CustomerID": "CUST5024",
+        "Rating": 2,
+        "ReviewText": "Customer service was unhelpful.. Not as described.",
+        "FeedbackDate": "2022-09-18"
+    },
+    {
+        "CustomerID": "CUST5028",
+        "Rating": 4,
+        "ReviewText": "Great value.. Instructions were clear.",
+        "FeedbackDate": "2023-03-27"
+    },
+    {
+        "CustomerID": "CUST5114",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Packaging was good.",
+        "FeedbackDate": "2025-03-20"
+    },
+    {
+        "CustomerID": "CUST5032",
+        "Rating": 2,
+        "ReviewText": "Not as described.. Overpriced.. Instructions were clear.",
+        "FeedbackDate": "2024-03-11"
+    },
+    {
+        "CustomerID": "CUST5032",
+        "Rating": 5,
+        "ReviewText": "Highly recommend.. Shipping was fast.",
+        "FeedbackDate": "2024-02-13"
+    },
+    {
+        "CustomerID": "CUST5118",
+        "Rating": 4,
+        "ReviewText": "Exceeded expectations.",
+        "FeedbackDate": "2022-09-25"
+    },
+    {
+        "CustomerID": "CUST5003",
+        "Rating": 5,
+        "ReviewText": "Exceeded expectations.",
+        "FeedbackDate": "2023-08-16"
+    },
+    {
+        "CustomerID": "CUST5073",
+        "Rating": 4,
+        "ReviewText": "Highly recommend.",
+        "FeedbackDate": "2022-11-22"
+    },
+    {
+        "CustomerID": "CUST5109",
+        "Rating": 5,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2023-03-27"
+    },
+    {
+        "CustomerID": "CUST5024",
+        "Rating": 2,
+        "ReviewText": "Broke quickly.",
+        "FeedbackDate": "2024-03-05"
+    },
+    {
+        "CustomerID": "CUST5093",
+        "Rating": 5,
+        "ReviewText": "Easy to use.. Works perfectly.. Shipping was fast.",
+        "FeedbackDate": "2024-06-13"
+    },
+    {
+        "CustomerID": "CUST5064",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.. Instructions were clear.",
+        "FeedbackDate": "2022-12-15"
+    },
+    {
+        "CustomerID": "CUST5075",
+        "Rating": 1,
+        "ReviewText": "Doesn't work well.",
+        "FeedbackDate": "2025-03-28"
+    },
+    {
+        "CustomerID": "CUST5097",
+        "Rating": 4,
+        "ReviewText": "Very satisfied.. Great value.. Instructions were clear.",
+        "FeedbackDate": "2024-08-19"
+    },
+    {
+        "CustomerID": "CUST5024",
+        "Rating": 3,
+        "ReviewText": "Decent for the price.",
+        "FeedbackDate": "2023-10-22"
+    },
+    {
+        "CustomerID": "CUST5082",
+        "Rating": 4,
+        "ReviewText": "Great value.",
+        "FeedbackDate": "2023-09-05"
+    },
+    {
+        "CustomerID": "CUST5116",
+        "Rating": 4,
+        "ReviewText": "Great value.. Instructions were clear.",
+        "FeedbackDate": "2023-10-23"
+    },
+    {
+        "CustomerID": "CUST5105",
+        "Rating": 1,
+        "ReviewText": "Faulty.",
+        "FeedbackDate": "2022-07-20"
+    },
+    {
+        "CustomerID": "CUST5082",
+        "Rating": 4,
+        "ReviewText": "Good quality.",
+        "FeedbackDate": "2025-03-09"
+    },
+    {
+        "CustomerID": "CUST5027",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.. Took a while to arrive.",
+        "FeedbackDate": "2025-01-14"
+    },
+    {
+        "CustomerID": "CUST5059",
+        "Rating": 5,
+        "ReviewText": "Love it!. Very satisfied.",
+        "FeedbackDate": "2023-06-21"
+    },
+    {
+        "CustomerID": "CUST5094",
+        "Rating": 1,
+        "ReviewText": "Overpriced.. Not as described.",
+        "FeedbackDate": "2022-08-03"
+    },
+    {
+        "CustomerID": "CUST5114",
+        "Rating": 1,
+        "ReviewText": "Difficult to use.. Doesn't work well.",
+        "FeedbackDate": "2024-04-13"
+    },
+    {
+        "CustomerID": "CUST5030",
+        "Rating": 1,
+        "ReviewText": "Wouldn't buy again.. Instructions were clear.",
+        "FeedbackDate": "2025-03-20"
+    },
+    {
+        "CustomerID": "CUST5068",
+        "Rating": 3,
+        "ReviewText": "As described.. Instructions were clear.",
+        "FeedbackDate": "2025-01-12"
+    },
+    {
+        "CustomerID": "CUST5116",
+        "Rating": 5,
+        "ReviewText": "Great value.. Shipping was fast.",
+        "FeedbackDate": "2022-09-16"
+    },
+    {
+        "CustomerID": "CUST5103",
+        "Rating": 2,
+        "ReviewText": "Disappointed.. Packaging was good.",
+        "FeedbackDate": "2024-03-13"
+    }
+]
